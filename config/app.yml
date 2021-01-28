@@ -56,7 +56,7 @@ smtp:
   host: srv20271.flexwebhosting.nl
   port: 587
   user: email@algo-trading-machine.com
-  password: Testaccount_2020
+  password: 
   sender_email: email@algo-trading-machine.com
   sender_name: Football Trading
   sender_logo: https://storage.googleapis.com/public_peatio/logo.png
